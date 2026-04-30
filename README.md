@@ -1,6 +1,6 @@
 # counter-app
-<p>A counter application made by using Javascript </p>
+<p> - A counter application made by using Javascript </p>
 <br>
-<p> which counts entries and saves it</p>
+<p> - It counts entries and saves it</p>
 <br>
-<p>It also shows previously saved entries</p>
+<p>- It also shows previously saved entries</p>
