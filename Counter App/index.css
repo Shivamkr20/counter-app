@@ -1,0 +1,62 @@
+ body {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     justify-items: center;
+     background-color: rgb(18, 16, 33);
+
+     
+
+ }
+
+ .container {
+    background-image: url(bgw.jpg);
+    background-size: cover;
+     max-width: 500px;
+     height: 550px;
+     display: flex;
+     flex-direction: column;
+     color: white;
+     align-items: center;
+     justify-items: center;
+     border: solid;
+     border-radius: 5px;
+     padding: 10px 50px;
+     margin-top: 100px;
+ }
+  h1{
+    margin-top: 40px;
+  }
+
+  h2{
+    font-size: 70px;
+    margin-top: 35px;
+  }
+
+  #tap-btn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.54);
+    border: none;
+    border-radius: 10px;
+    color: rgb(19, 19, 19);
+    height: 45px;
+    width: 200px;
+    margin-top: 0px;
+  }
+
+  #save-btn {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.54);
+    border: none;
+    border-radius: 10px;
+    color: rgba(19, 19, 19);
+    height: 45px;
+    width: 200px;
+    margin: 30px 20px 20px 20px;
+
+  }
+
+  p{
+    font-size: 20px;
+    font-weight: bold;
+  }
